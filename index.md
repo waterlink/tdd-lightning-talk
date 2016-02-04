@@ -65,10 +65,10 @@ _(not "the code controls you")_
 
 Q & A
 
-Twitter: twitter.com/waterlink000
+Twitter: [twitter.com/waterlink000](https://twitter.com/waterlink000)
 
-Github: github.com/waterlink
+Github: [github.com/waterlink](https://github.com/waterlink)
 
-Blog: waterlink.github.io
+Blog: [waterlink.github.io](http://waterlink.github.io)
 
-Check out my TDD Screencasts: bit.ly/tdd-screencasts
+Check out my TDD Screencasts: [bit.ly/tdd-screencasts](http://bit.ly/tdd-screencasts)
