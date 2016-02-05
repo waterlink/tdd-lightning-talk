@@ -69,6 +69,6 @@ Twitter: [twitter.com/waterlink000](https://twitter.com/waterlink000)
 
 Github: [github.com/waterlink](https://github.com/waterlink)
 
-Blog: [waterlink.github.io](http://waterlink.github.io)
+Blog: [tddfellow.com](http://tddfellow.com)
 
 Check out my TDD Screencasts: [bit.ly/tdd-screencasts](http://bit.ly/tdd-screencasts)
